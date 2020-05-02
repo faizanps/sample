@@ -16,7 +16,6 @@ atlassian*
 /vendor/*
 /update/*
 /dev/*
-/app/etc/*
 /generated/*
 /pub/sitemap
 /pub/sitemap.xml
